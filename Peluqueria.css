@@ -1,0 +1,56 @@
+.titulo{
+    color: black;
+    font-size:75px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    margin-bottom: 7%;
+}
+.quienes{
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    padding-right: 55%;
+}
+.que{
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    padding-left: 55%;
+    margin-right: 3%;
+}
+.alfonso{
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    padding-left: 55%;
+    margin-right: 3%;
+}
+.yago{
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    padding-right: 55%;
+
+}
+#texto1{    
+    font-size: 20px;
+    text-align: justify;
+    padding-right: 55%;
+}
+#descripcion1{
+    font-size: 20px;
+    text-align: justify;
+    padding-left: 55%;
+    margin-right: 3%;
+}
+#descripcion2{
+    font-size: 20px;
+    text-align: justify;
+    padding-right: 55%;
+}
+#texto2{    
+    font-size: 20px;
+    text-align: justify;
+    padding-left: 55%;
+    margin-right: 3%;
+}
